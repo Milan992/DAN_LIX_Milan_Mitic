@@ -7,6 +7,95 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Button Content="" HorizontalAlignment="Left" 
+                Margin="10,10,0,0" VerticalAlignment="Top"
+                Width="50"
+                Height="50"
+                Name="btn1_1" Click="btn1_1_Click"/>
+        <Button Content="" HorizontalAlignment="Left" 
+                Margin="60,10,0,0" VerticalAlignment="Top"
+                Width="50"
+                Height="50"
+                Name="btn1_2" Click="btn1_2_Click"/>
+        <Button Content="" HorizontalAlignment="Left" 
+                Margin="110,10,0,0" VerticalAlignment="Top"
+                Width="50"
+                Height="50"
+                Name="btn1_3" Click="btn1_3_Click"/>
+        <Button Content="" HorizontalAlignment="Left" 
+                Margin="160,10,0,0" VerticalAlignment="Top"
+                Width="50"
+                Height="50"
+                Name="btn1_4" Click="btn1_4_Click"/>
+
+        <Button Content="" HorizontalAlignment="Left" 
+                Margin="10,60,0,0" VerticalAlignment="Top"
+                Width="50"
+                Height="50"
+                Name="btn2_1" Click="btn2_1_Click"/>
+        <Button Content="" HorizontalAlignment="Left" 
+                Margin="60,60,0,0" VerticalAlignment="Top"
+                Width="50"
+                Height="50"
+                Name="btn2_2" Click="btn2_2_Click"/>
+        <Button Content="" HorizontalAlignment="Left" 
+                Margin="110,60,0,0" VerticalAlignment="Top"
+                Width="50"
+                Height="50"
+                Name="btn2_3" Click="btn2_3_Click"/>
+        <Button Content="" HorizontalAlignment="Left" 
+                Margin="160,60,0,0" VerticalAlignment="Top"
+                Width="50"
+                Height="50"
+                Name="btn2_4" Click="btn2_4_Click"/>
+
+        <Button Content="" HorizontalAlignment="Left" 
+                Margin="10,110,0,0" VerticalAlignment="Top"
+                Width="50"
+                Height="50"
+                Name="btn3_1" Click="btn3_1_Click"/>
+        <Button Content="" HorizontalAlignment="Left" 
+                Margin="60,110,0,0" VerticalAlignment="Top"
+                Width="50"
+                Height="50"
+                Name="btn3_2" Click="btn3_2_Click"/>
+        <Button Content="" HorizontalAlignment="Left" 
+                Margin="110,110,0,0" VerticalAlignment="Top"
+                Width="50"
+                Height="50"
+                Name="btn3_3" Click="btn3_3_Click"/>
+        <Button Content="" HorizontalAlignment="Left" 
+                Margin="160,110,0,0" VerticalAlignment="Top"
+                Width="50"
+                Height="50"
+                Name="btn3_4" Click="btn3_4_Click"/>
+
+        <Button Content="" HorizontalAlignment="Left" 
+                Margin="10,160,0,0" VerticalAlignment="Top"
+                Width="50"
+                Height="50"
+                Name="btn4_1" Click="btn4_1_Click"/>
+        <Button Content="" HorizontalAlignment="Left" 
+                Margin="60,160,0,0" VerticalAlignment="Top"
+                Width="50"
+                Height="50"
+                Name="btn4_2" Click="btn4_2_Click"/>
+        <Button Content="" HorizontalAlignment="Left" 
+                Margin="110,160,0,0" VerticalAlignment="Top"
+                Width="50"
+                Height="50"
+                Name="btn4_3" Click="btn4_3_Click"/>
+        <Button Content="" HorizontalAlignment="Left" 
+                Margin="160,160,0,0" VerticalAlignment="Top"
+                Width="50"
+                Height="50"
+                Name="btn4_4" Click="btn4_4_Click"/>
+
+        <Button HorizontalAlignment="Left"
+                Margin="260,10,0,0" VerticalAlignment="Top" 
+                Width="75">
+            <Button Content="Start" Width="75" 
+                    Click="Start_Click"/>
+        </Button>
     </Grid>
 </Window>
